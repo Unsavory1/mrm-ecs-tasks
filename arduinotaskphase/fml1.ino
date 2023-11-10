@@ -3,9 +3,9 @@ const int lowestBit=7;
 int btt=4;
 int bttprevState=LOW; 
 int bttcurrState=LOW;
-int led1=7;
-int led2=8;
-int led3=12; 
+int led1=9;
+int led2=7;
+int led3=8; 
 int bits[numberofBits];
 
 void setup()
